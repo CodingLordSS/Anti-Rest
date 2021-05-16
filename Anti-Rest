@@ -1,0 +1,3 @@
+Created by MrScout4T7
+
+game:GetService("StarterGui"):SetCore("ResetButtonCallback", false)
