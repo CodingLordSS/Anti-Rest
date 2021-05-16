@@ -1,0 +1,3 @@
+Create by MrScout4T7
+
+game:GetService('StarterGui'):SetCoreGuiEnabled('All', false)
